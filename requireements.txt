@@ -1,0 +1,12 @@
+pytesseract
+pymysql
+redis
+pillow
+selenium
+fake_useragent
+requests
+xlrd
+django
+celery
+beautifulsoup4
+lxml
